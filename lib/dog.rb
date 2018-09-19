@@ -1,5 +1,5 @@
-class Person 
- def initialize(name)
+class Dog
+ def initialize 
    @name = name 
  end 
 end 
